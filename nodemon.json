@@ -1,0 +1,6 @@
+{
+    "env": {
+        "PORT": 3000,
+        "MONGO_URI": "mongodb+srv://ragul:IZi2D2IPxTlrardy@cluster0.wabeliy.mongodb.net/shopping?retryWrites=true&w=majority"
+    }
+}
